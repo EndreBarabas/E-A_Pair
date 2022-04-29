@@ -17,7 +17,11 @@ GEM
     rspec-support (3.11.0)
 
 PLATFORMS
+<<<<<<< HEAD
   x86_64-darwin-19
+=======
+  x86_64-darwin-20
+>>>>>>> 88e5030ea0b2c7bda9ae8506d968c50f9f377461
 
 DEPENDENCIES
   rspec (~> 3.11)
